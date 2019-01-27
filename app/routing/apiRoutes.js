@@ -6,7 +6,7 @@ module.exports = function (app) {
     })
     app.post("/api/friends", function(request, response) {
         // request will hold info the user sends or the FE sends to the server
-        // res will be the info sent back
+        // response will be the info sent back
         
     }
     )
