@@ -12,7 +12,7 @@
 var friends = [
     {
         name: "Ron",
-        photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=&url=https%3A%2F%2Ftwitter.com%2Fmagasocal&psig=AOvVaw1zCvUIm-XWg8cjeHXC452Y&ust=1548720268143789",
+        photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqHm076e19Spy2bqiQDc837a7CDRS1em1TNYkAV3mjqFNljOJ",
         scores: [
             5,
             1,
